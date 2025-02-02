@@ -87,13 +87,13 @@
 
   /* section-about */
   .main{
-    margin-left: 230px;
-    margin-right: 300px;
+    margin-left: 200px;
+    margin-right: 200px;
   }
   .section-about{
     text-align: center;
     background-color: #5e6453;
-    padding: 131px 150px;
+    padding: 131px 130px;
     border-radius: 10px;
   }
   .about-discr{
