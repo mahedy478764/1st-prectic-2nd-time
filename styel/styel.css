@@ -1,0 +1,231 @@
+/* mary titel */
+.open-sans{
+    font-family: "Open Sans", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+     
+      
+  }
+  .open-sans-header{
+    background-color: rgb(201, 216, 160);
+    background-image: url('../images/developer.png'), url('../images/header_bg.png');
+    background-repeat: no-repeat;
+    background-position: left top,right bottom;
+  }
+  /* nav */
+
+
+  nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 200px;
+  }
+  .open-sans-titel{
+    font-size: 45px;
+    font-weight: 800;
+  }
+  nav > ul li{
+    list-style: none;
+    
+  }
+  nav li a{
+    text-decoration: none;
+  }
+  ul{
+    display: flex;
+    align-items: center;
+
+  }
+  li{
+    margin: 24px;
+  }
+  
+  /* shear styel */
+  .mary{
+    color: #FD6E0A;
+  }
+  .drack-2{
+    color: #474747;
+    font-size: 20px;
+    font-weight: 400px;
+  }
+  .bty-play{
+    background-color: #FD6E0A;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 18px 36px 18px 36px ;
+    border: none;
+    border-radius: 7px;
+  }
+  /* benar div */
+  .benar{
+    display: flex;
+    justify-content: space-between;
+    margin-right:0px 35px 0px 200px;
+  }
+  .benar-content{
+    margin-left: 200px;
+  
+  }
+  .benar-h3{
+    font-size: 45px;
+    font-weight: 600;
+    color: #474747;
+  }
+  .benar-h2{
+    font-size: 85px;
+    font-weight: bold;
+    color: #181818;
+  }
+  section{
+    margin-top: 130px;
+  }
+
+  /* section-about */
+  .main{
+    margin-left: 230px;
+    margin-right: 300px;
+  }
+  .section-about{
+    text-align: center;
+    background-color: #5e6453;
+    padding: 131px 150px;
+    border-radius: 10px;
+  }
+  .about-discr{
+    font-size: 18px;
+    font-weight: 400px;
+    color: #757575;
+  }
+  .item-titel{
+    font-size: 20px;
+    font-weight: 400px;
+    color: #757575;
+
+  }
+  .section-titel{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+  }
+  .about-items{
+    display: flex;
+    justify-content: space-around;
+  }
+  .item-discr{
+    font-size: 20px;
+    font-weight:bold ;
+    color: #757575;
+  }
+  .section-about-div{
+    background-color: #FFFFFF;
+    border-radius: 5px;
+  }
+  /* what-i-do */
+  .what-h3{
+    font-size: 35px;
+    font-weight: bold;
+    color: #181818;
+    text-align: center;
+  }
+  .what-discr{
+    font-size: 18px;
+    font-weight: 400px;
+    color: #757575;
+  }
+  .what-div{
+    text-align: center;
+    margin:0px 200px;
+  }
+  .what-i-do-it{
+    display:flex ;
+    gap: 40px;
+    margin-top: 50px;
+  }
+  .skill{
+    padding: 30px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 6px 50px 0px #000000;
+    border-radius: 10px;
+  }
+  .skill-h4{
+    font-size: 20px;
+    font-weight: bold;
+
+
+  }
+  .skill-discr{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #757575;
+  }
+
+  /* resume */
+  .resume-content{
+    display: flex;
+    gap: 80px;
+  }
+  .resume-content-box{
+    padding-right: 50px;
+  }
+  .resume-titel{
+    font-size: 30px;
+    font-weight: bold;
+    color: #474747;
+  }
+  .resume-cours-name{
+    font-size: 25px;
+    font-weight: bold;
+    color: #474747;
+  }
+  .resume-univirsty{
+    font-size: 20px;
+    font-weight: 600px;
+    color: #757575;
+  }
+  .resume-discr{
+    font-size: 16px;
+    font-weight: 400px;
+    color: #757575;
+  }
+  .text-center{
+    text-align: center;
+    margin-top: 50px;
+  }
+  /* footer */
+footer{
+  margin-top: 130px;
+  background-color:  rgb(201, 216, 160);
+  
+ 
+}
+.icon{
+  display: flex;
+  
+
+}
+.icon-discr{
+  padding-right: 30px;
+  margin-right: 100px;
+}
+.comment{
+  font-size: 16px;
+  font-weight: 400px;
+  color: #757575;
+  padding: 18px 100px 18px 20px;
+  border-radius: 10px;
+  border: none;
+  padding: ;
+}
+.icon{
+  padding: 130px 200px;
+
+}
+
+.icons a{
+  margin-right: 25px;
+}
